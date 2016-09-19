@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  FBLoginApp
 //
-//  Created by Puneeth S J on 9/15/16.
-//  Copyright © 2016 Puneeth S J. All rights reserved.
+//  Created by testio2k16 on 9/15/16.
+//  Copyright © 2016 testio2k16. All rights reserved.
 //
 
 import UIKit
